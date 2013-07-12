@@ -36,3 +36,6 @@ nosetests.xml
 
 # Removing virtual environement folder
 venv
+
+# Removing nltk data (too large)
+nltk_data
